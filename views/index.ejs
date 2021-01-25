@@ -223,6 +223,11 @@
 	function openToggle() {
 		//alert("The ontoggle event occured");
 	}
+	document.addEventListener('copy', function(e){
+  var text = window.getSelection().toString().replace(/[\n\r]+/g, '');
+  e.clipboardData.setData('text/plain', 'asdf');
+  e.preventDefault();
+});
 	</script>
 </body>
 </html>
