@@ -1,0 +1,16 @@
+{
+	"short_name" : "RES",
+	"name": "Resume PWA",
+	"icons": [
+		{
+			"src":"assets/img/iconandroid.png",
+			"sizes":"144x144",
+			"type":"image/png"
+		}
+	],
+	"start_url":"index.html",
+	"background_color":"#4dbaa8",
+	"display":"standalone",
+	"theme_color":"#4dbaa8"
+
+}
