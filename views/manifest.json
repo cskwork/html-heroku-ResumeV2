@@ -1,10 +1,10 @@
 {
-	"short_name" : "RES",
+	"short_name" : "RESUME CSK",
 	"name": "Resume PWA",
 	"icons": [
 		{
-			"src":"assets/img/iconandroid.png",
-			"sizes":"144x144",
+			"src":"assets/img/person-icon.png",
+			"sizes":"256x256",
 			"type":"image/png"
 		}
 	],
